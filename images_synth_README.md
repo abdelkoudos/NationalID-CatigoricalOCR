@@ -1,4 +1,4 @@
-instruction to run images_synth code 
+## Instruction to run images_synth code
 
 1. clone the repo 2nd cell
 2. change the requirements file with the one attached here
