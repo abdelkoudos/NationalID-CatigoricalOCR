@@ -1,4 +1,4 @@
-## Instruction to run images_synth code
+## Instruction to run images_synth code on google collab
 
 1. clone the repo 2nd cell
 2. change the requirements file with the one attached here
